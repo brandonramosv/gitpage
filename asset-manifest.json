@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitpage/static/css/main.073c9b0a.css",
+    "main.js": "/gitpage/static/js/main.58368554.js",
+    "static/js/787.b3e4e704.chunk.js": "/gitpage/static/js/787.b3e4e704.chunk.js",
+    "service-worker.js": "/gitpage/service-worker.js",
+    "static/media/logo.svg": "/gitpage/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/gitpage/index.html",
+    "main.073c9b0a.css.map": "/gitpage/static/css/main.073c9b0a.css.map",
+    "main.58368554.js.map": "/gitpage/static/js/main.58368554.js.map",
+    "787.b3e4e704.chunk.js.map": "/gitpage/static/js/787.b3e4e704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.58368554.js"
+  ]
+}
